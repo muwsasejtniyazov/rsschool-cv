@@ -40,10 +40,10 @@ I am fond of swimming tennis and programming.<br>
 
 ### Languages:
 
--Uzbek \- Native
--Russian \- Fully
--English \- B2
--German \- A2
+-Uzbek \- Native<br>
+-Russian \- Fully<br>
+-English \- B2<br>
+-German \- A2<br>
 
 
 

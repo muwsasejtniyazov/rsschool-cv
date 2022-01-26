@@ -5,10 +5,10 @@
 
 ### Contact information:
 
-**Phone:** +998992421426
-**E-mail:** musasejtniyazov@gmail.com
-**Telegramm:** @MuwsaSeytniyazov
-**Instagramm:** musasejtniazov
+**Phone:** +998992421426<br>
+**E-mail:** musasejtniyazov@gmail.com<br>
+**Telegram:** @MuwsaSeytniyazov<br>
+**Instagram:** musasejtniazov<br>
 
 ******
 

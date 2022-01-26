@@ -14,9 +14,9 @@
 
 ### About Myself:
 
-My name is Muwsa. I am from Uzbekistan in the city of Nukus.<br>
+My name is Muwsa. I am from Nukus, Uzbekistan.<br>
 I am currently 14 years old and I am studying at Pushkin's school.<br> 
-My native language is Uzbek and I also study English and German and I also know Russian completely.<br> 
+My native language is Uzbek and I also study English and German and I also know Russian very well.<br> 
 I am fond of swimming tennis and programming.<br>
 
 ******
@@ -40,10 +40,10 @@ I am fond of swimming tennis and programming.<br>
 
 ### Languages:
 
--Uzbek \- Native<br>
--Russian \- Fully<br>
--English \- B2<br>
--German \- A2<br>
+-Uzbek \- Advanced<br>
+-Russian \- Advanced<br>
+-English \- Upper-Intermediate<br>
+-German \- Elementary<br>
 
 
 

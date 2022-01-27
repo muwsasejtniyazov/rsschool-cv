@@ -1,0 +1,32 @@
+header {
+    font-weight: bold;
+    font-size: 45px;
+    font-family: monospace;
+}
+html {
+    background-color: rgb(219, 205, 205);
+}
+main {
+    font-size: 30px;
+    color: rgb(95, 137, 150);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+footer {
+    font-size: 25px;
+    color: rgb(151, 137, 137);
+    font-family: monospace;
+}
+.m {
+    font-weight: bold;
+    padding: 3px;
+    color: rgb(151, 137, 137);
+    font-family: monospace;
+    font-size: 20px;
+}
+.n {
+    color: rgb(95, 137, 150);
+}
+div {
+    background-color: rgba(98, 153, 126, 0.2);
+    font-family: monospace;
+}

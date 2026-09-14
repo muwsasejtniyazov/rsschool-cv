@@ -10,11 +10,11 @@
 
 ### Contact Information:
 
-**Phone:** +393513071426</br>
-**Discord:** @muwsa8484</br>
-**GitHub:** @muwsasejtniyazov</br>
-**Instagramm:** @musasejtniyazov</br>
-**Telegramm:** @sejtniyazov</br>
+**Phone:** +393513071426<br>
+**Discord:** @muwsa8484<br>
+**GitHub:** @muwsasejtniyazov<br>
+**Instagramm:** @musasejtniyazov<br>
+**Telegramm:** @sejtniyazov<br>
 
 ******
 

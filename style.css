@@ -115,6 +115,12 @@ h4 {
     color: black;
     margin-left: 14px;
 }
+.code {
+    font-family: 'gothamm', sans-serif;
+    font-size: 12px;
+    color: black;
+    margin-left: 14px;
+}
 .div4 {
     display: flex;
     margin-top: 4px;
